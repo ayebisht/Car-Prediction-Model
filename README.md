@@ -34,11 +34,11 @@ I'm aspiring to be a Data Scientist.
 My first ever model was to predict the prices of the Car.
 
 ## 🛠 Skills
-I have very good command on vscode 
-Best with python programming language 
-Good with numpy, pandas 
-For Data visualization matplotlib & seaborn
-For DataBase Sql
+##### I have very good command on vscode 
+##### Best with python programming language 
+##### Good with numpy, pandas 
+##### For Data visualization matplotlib & seaborn
+##### For DataBase Sql
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/ayebisht/)
